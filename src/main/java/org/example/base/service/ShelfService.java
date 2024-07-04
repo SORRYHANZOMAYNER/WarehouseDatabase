@@ -10,9 +10,7 @@ import java.util.List;
 @Service
 public class ShelfService {
     public ShelfRepository shelfRepository;
-    public ShelfService(){
-
-    }
+    public ShelfService(){}
     @Autowired
     public ShelfService(ShelfRepository shelfRepository){
         this.shelfRepository = shelfRepository;
