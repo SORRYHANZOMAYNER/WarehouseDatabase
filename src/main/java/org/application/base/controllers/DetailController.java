@@ -1,7 +1,7 @@
-package org.example.base.controllers;
+package org.application.base.controllers;
 
-import org.example.base.models.Detail;
-import org.example.base.service.DetailService;
+import org.application.base.models.Detail;
+import org.application.base.service.DetailService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

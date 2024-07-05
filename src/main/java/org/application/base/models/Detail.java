@@ -1,4 +1,4 @@
-package org.example.base.models;
+package org.application.base.models;
 
 import javax.persistence.*;
 

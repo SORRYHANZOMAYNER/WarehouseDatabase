@@ -1,7 +1,7 @@
-package org.example.base.service;
+package org.application.base.service;
 
-import org.example.base.models.Detail;
-import org.example.base.repository.DetailRepository;
+import org.application.base.models.Detail;
+import org.application.base.repository.DetailRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

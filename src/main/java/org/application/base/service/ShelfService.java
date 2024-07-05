@@ -1,7 +1,7 @@
-package org.example.base.service;
+package org.application.base.service;
 
-import org.example.base.models.Shelf;
-import org.example.base.repository.ShelfRepository;
+import org.application.base.models.Shelf;
+import org.application.base.repository.ShelfRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

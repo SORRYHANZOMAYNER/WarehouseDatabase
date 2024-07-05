@@ -1,12 +1,10 @@
-package org.example.base.controllers;
+package org.application.base.controllers;
 
-import org.example.base.models.Detail;
-import org.example.base.models.Shelf;
-import org.example.base.service.ShelfService;
+import org.application.base.models.Shelf;
+import org.application.base.service.ShelfService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api1/v1")

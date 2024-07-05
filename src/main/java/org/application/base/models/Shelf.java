@@ -1,6 +1,4 @@
-package org.example.base.models;
-
-import com.fasterxml.jackson.annotation.*;
+package org.application.base.models;
 
 import javax.persistence.*;
 import java.util.ArrayList;

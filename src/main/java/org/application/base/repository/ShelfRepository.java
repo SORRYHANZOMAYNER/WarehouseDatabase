@@ -1,6 +1,6 @@
-package org.example.base.repository;
+package org.application.base.repository;
 
-import org.example.base.models.Shelf;
+import org.application.base.models.Shelf;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
